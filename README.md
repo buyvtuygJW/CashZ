@@ -1,6 +1,6 @@
 A budget manager/convertor app made by poor for all poor people.
 
-My product from my dissertation at USW.
+This is a product of my dissertation at USW.
 
 Uses:
 - Convert Actual db to Cashew data file.
