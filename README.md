@@ -1,9 +1,12 @@
-A budget app made by poor for all poor people.
+A budget manager/convertor app made by poor for all poor people.
 
 My product from my dissertation at USW.
 
-This app use source code from other foss project like:https://github.com/buyvtuygJW/Jetpackutil
+Uses:
+- Convert Actual db to Cashew data file.
+- Import both Actual&Cashew into this app to view the statistics easily on the go with security&privacy guarentee.
 
+This app use source code from other foss project like: https://github.com/buyvtuygJW/Jetpackutil
 Thus it is not directly zip buildable from android studio.
 
 Build flow:
