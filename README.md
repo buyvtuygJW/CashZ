@@ -8,7 +8,7 @@ Uses:
 
 Showcase:
 
-![Import from actual app](demovid/showimport.gif)
+![Import from actual app](demovid/showimport_out.gif)
 
 ![Imported statistics Demo](demovid/checkstats_out.gif)
 
