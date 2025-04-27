@@ -6,6 +6,12 @@ Uses:
 - Convert Actual db to Cashew data file.
 - Import both Actual&Cashew into this app to view the statistics easily on the go with security&privacy guarentee.
 
+Showcase:
+
+![Imported statistics Demo](demovid/checkstats_out.mp4)
+
+Developer info>
+
 This app use source code from other foss project like:
 
 https://github.com/buyvtuygJW/Jetpackutil
