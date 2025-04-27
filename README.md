@@ -8,7 +8,7 @@ Uses:
 
 Showcase:
 
-![Imported statistics Demo](demovid/checkstats_out.mp4)
+[Imported statistics Demo](demovid/checkstats_out.mp4)
 
 Developer info>
 
