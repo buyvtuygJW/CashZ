@@ -1,0 +1,88 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:35683322156748945",
+      "lastPropertyId": "16:9172423591623226845",
+      "name": "Transaction",
+      "properties": [
+        {
+          "id": "1:7366349663717524330",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2344194361496446087",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:5284473634845550245",
+          "name": "amount",
+          "type": 8
+        },
+        {
+          "id": "4:1109613448610296648",
+          "name": "note",
+          "type": 9
+        },
+        {
+          "id": "8:677986537731869510",
+          "name": "income",
+          "type": 6
+        },
+        {
+          "id": "9:3288166630154551756",
+          "name": "paid",
+          "type": 6
+        },
+        {
+          "id": "10:3980739264870369185",
+          "name": "skipPaid",
+          "type": 6
+        },
+        {
+          "id": "13:7730300685234716771",
+          "name": "optcashewuuid",
+          "type": 9
+        },
+        {
+          "id": "14:7862442398330420158",
+          "name": "date_created",
+          "type": 6
+        },
+        {
+          "id": "15:6887305365629415554",
+          "name": "date_time_modified",
+          "type": 6
+        },
+        {
+          "id": "16:9172423591623226845",
+          "name": "original_date_due",
+          "type": 6
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:35683322156748945",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    135509251339643748,
+    5635419196758947021,
+    9044132906224803772,
+    1231584010624823958,
+    7137119165603375505
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}
