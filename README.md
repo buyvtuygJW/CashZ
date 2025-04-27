@@ -8,7 +8,9 @@ Uses:
 
 Showcase:
 
-[Imported statistics Demo](demovid/checkstats_out.mp4)
+[Import from actual app](demovid/showimport.gif)
+
+[Imported statistics Demo](demovid/checkstats_out.gif)
 
 Developer info>
 
