@@ -32,12 +32,6 @@ plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.android) apply false
 
-    //realm nosql must
-    //id("com.android.application") version "7.0.4" apply false
-    //id("com.android.library") version "7.0.4" apply false
-    //id("org.jetbrains.kotlin.android") version "2.1.0" apply false
-    //id("io.realm.kotlin") version "1.16.0" apply false//src,https://www.mongodb.com/docs/atlas/device-sdks/sdk/kotlin/install/#std-label-kotlin-install-android
-
     //dependency,eg from official,https://developer.android.com/training/dependency-injection/hilt-android#kts
     id("com.google.dagger.hilt.android") version "2.53" apply false
     id("com.android.library") version "7.4.0" apply false
